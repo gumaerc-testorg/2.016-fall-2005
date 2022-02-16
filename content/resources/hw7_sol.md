@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains solutions to assignment 7.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-016-hydrodynamics-13-012-fall-2005/89168cae5eaf0838f535637fc561a79b_hw7_sol.pdf
+file: /media/courses/2-016-hydrodynamics-13-012-fall-2005/89168cae5eaf0838f535637fc561a79b_hw7_sol.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: hw7_sol.pdf
 uid: 89168cae-5eaf-0838-f535-637fc561a79b

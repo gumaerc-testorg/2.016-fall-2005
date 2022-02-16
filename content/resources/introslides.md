@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource contains what is hydrodynamics? fluid properties @20?C,
   ocean exploration & hydrodynamics, and underwater vehicles & submarines.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-016-hydrodynamics-13-012-fall-2005/005a2dfb01d258022c80c55cbe6da798_introslides.pdf
+file: /media/courses/2-016-hydrodynamics-13-012-fall-2005/005a2dfb01d258022c80c55cbe6da798_introslides.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: introslides.pdf
 uid: 005a2dfb-01d2-5802-2c80-c55cbe6da798

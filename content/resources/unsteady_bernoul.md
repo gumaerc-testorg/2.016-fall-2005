@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: This resource explains derivation of unsteady bernoulli?s equation.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-016-hydrodynamics-13-012-fall-2005/0c0ab81e69eced8dd763790c23801b87_unsteady_bernoul.pdf
+file: /media/courses/2-016-hydrodynamics-13-012-fall-2005/0c0ab81e69eced8dd763790c23801b87_unsteady_bernoul.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Study Materials
+parent_type: CourseSection
 resourcetype: Document
 title: unsteady_bernoul.pdf
 uid: 0c0ab81e-69ec-ed8d-d763-790c23801b87

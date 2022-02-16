@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains introduction to basic principles of fluid mechanics.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-016-hydrodynamics-13-012-fall-2005/b97992061b6ee90cd549e01a678b08e5_2005reading3.pdf
+file: /media/courses/2-016-hydrodynamics-13-012-fall-2005/b97992061b6ee90cd549e01a678b08e5_2005reading3.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: 2005reading3.pdf
 uid: b9799206-1b6e-e90c-d549-e01a678b08e5
