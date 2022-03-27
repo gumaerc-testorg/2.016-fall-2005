@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: f33ec800-3608-1163-c520-7d0dcdb069f1
 resourcetype: Document
 title: potential_flow.pdf
 uid: 20b3e1b7-b852-03a7-98bb-3e995591a312

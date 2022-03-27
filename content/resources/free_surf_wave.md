@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: acd70d52-ee88-6cbd-a959-96da74024551
 resourcetype: Document
 title: free_surf_wave.pdf
 uid: 3133000c-14ec-0808-6951-d724ff277b13

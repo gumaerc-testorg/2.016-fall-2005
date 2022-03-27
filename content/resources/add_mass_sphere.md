@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: f33ec800-3608-1163-c520-7d0dcdb069f1
 resourcetype: Document
 title: add_mass_sphere.pdf
 uid: 7cfc1ce5-fb29-8d4f-54be-af36b9f00109

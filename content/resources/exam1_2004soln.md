@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: f33ec800-3608-1163-c520-7d0dcdb069f1
 resourcetype: Document
 title: exam1_2004soln.pdf
 uid: 472d381e-a8bc-528a-5b5c-77f28151fc58
