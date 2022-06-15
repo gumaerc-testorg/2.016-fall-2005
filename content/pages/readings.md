@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains list of readings associated with the course material.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -39,9 +40,9 @@ L1
 Introduction
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction ([PDF]({{< baseurl >}}/resources/2005reading1))  
+Introduction ({{% resource_link dc299d2f-f055-53b3-515d-ccc23fc0f7d2 "PDF" %}})  
   
-Slides ([PDF]({{< baseurl >}}/resources/introslides))
+Slides ({{% resource_link 005a2dfb-01d2-5802-2c80-c55cbe6da798 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -53,7 +54,7 @@ L2
 Hydrostatics
 {{< tdclose >}}
 {{< tdopen >}}
-Hydrostatic Pressure ([PDF]({{< baseurl >}}/resources/2005reading2))
+Hydrostatic Pressure ({{% resource_link e39d5626-9e95-a750-14c8-e9a87b1324e4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -67,7 +68,7 @@ Qualitative Flow Descriptions
 Conservation Laws
 {{< tdclose >}}
 {{< tdopen >}}
-Basic Principles of Fluid Mechanics ([PDF]({{< baseurl >}}/resources/2005reading3))
+Basic Principles of Fluid Mechanics ({{% resource_link b9799206-1b6e-e90c-d549-e01a678b08e5 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -105,7 +106,7 @@ L5
 Potential Flow
 {{< tdclose >}}
 {{< tdopen >}}
-Potential Flow Theory ([PDF]({{< baseurl >}}/resources/2005reading4))
+Potential Flow Theory ({{% resource_link c472432d-ebcf-6ee2-5020-9b68cf18cc12 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -131,7 +132,7 @@ Unsteady Bernoulli's Equation
 D'Allembert's Paradox
 {{< tdclose >}}
 {{< tdopen >}}
-Fluid Forces on Bodies ([PDF]({{< baseurl >}}/resources/2005reading5))
+Fluid Forces on Bodies ({{% resource_link 7b7f30b7-b534-f461-3d67-1fd7eb1052cc "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -145,9 +146,9 @@ Added Mass
 Strip Theory
 {{< tdclose >}}
 {{< tdopen >}}
-Added Mass ([PDF]({{< baseurl >}}/resources/2005reading6))  
+Added Mass ({{% resource_link 6124a1fd-14e8-11d9-ea75-3f85e0dfc8d0 "PDF" %}})  
   
-Slides ([PDF]({{< baseurl >}}/resources/add_mass_deriv))
+Slides ({{% resource_link 3336f165-4b76-2fbc-bac5-c26757b37332 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -201,9 +202,9 @@ L9
 Linear Free-Surface Gravity Waves
 {{< tdclose >}}
 {{< tdopen >}}
-Free Surface Water Waves ([PDF]({{< baseurl >}}/resources/2005reading7))  
+Free Surface Water Waves ({{% resource_link 8f21a5cd-e79c-7f8b-d8dc-435d5b6e902b "PDF" %}})  
   
-Slides ([PDF - 1.1 MB]({{< baseurl >}}/resources/free_surf_wave))
+Slides ({{% resource_link 3133000c-14ec-0808-6951-d724ff277b13 "PDF - 1.1 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -263,7 +264,7 @@ L12
 Forces on Bodies
 {{< tdclose >}}
 {{< tdopen >}}
-Froude Krylov Excitation Force ([PDF]({{< baseurl >}}/resources/2005reading8))
+Froude Krylov Excitation Force ({{% resource_link 03bdb1d9-1476-c513-8f91-1309dd026e41 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
