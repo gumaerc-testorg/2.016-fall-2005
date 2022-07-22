@@ -6,6 +6,7 @@ file: /courses/2-016-hydrodynamics-13-012-fall-2005/76186e6cdc117a7843af12726065
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: hw4.pdf
 uid: 76186e6c-dc11-7a78-43af-127260659aaa
 ---
 This resource contains 5 questions to test students understanding of course material.
-

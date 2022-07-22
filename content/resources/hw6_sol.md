@@ -5,6 +5,7 @@ file: /courses/2-016-hydrodynamics-13-012-fall-2005/f09b56b2f3755b588bcee6d82299
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: hw6_sol.pdf
 uid: f09b56b2-f375-5b58-8bce-e6d82299ff89
 ---
 This resource contains solutions to assignment 6.
-

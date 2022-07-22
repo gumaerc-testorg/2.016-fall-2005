@@ -5,6 +5,7 @@ file: /courses/2-016-hydrodynamics-13-012-fall-2005/bafc7034b0f4fef83babee65b567
 file_type: application/zip
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lab3.zip
 uid: bafc7034-b0f4-fef8-3bab-ee65b567444f
 ---
 This resource contains pdf and .m files.
-

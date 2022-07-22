@@ -5,6 +5,7 @@ file: /courses/2-016-hydrodynamics-13-012-fall-2005/f53a0bb73c5c695eca1028471881
 file_type: application/zip
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lab2data.zip
 uid: f53a0bb7-3c5c-695e-ca10-2847188172bf
 ---
 This resource contains .asc files.
-
