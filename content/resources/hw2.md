@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains 5 questions to test students understanding of
   course material.
 file: /courses/2-016-hydrodynamics-13-012-fall-2005/e588a2edca4ce88e182f915b93d66db8_hw2.pdf
+file_size: 286306
 file_type: application/pdf
 learning_resource_types:
 - Assignments

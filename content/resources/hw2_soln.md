@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains solutions to assignment 2.
 file: /courses/2-016-hydrodynamics-13-012-fall-2005/dcb9a16587750c88f6ac15d81d127612_hw2_soln.pdf
+file_size: 165913
 file_type: application/pdf
 learning_resource_types:
 - Assignments
