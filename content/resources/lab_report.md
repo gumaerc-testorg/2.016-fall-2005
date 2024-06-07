@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains abstract, introduction, results, and discussion.
 file: /courses/2-016-hydrodynamics-13-012-fall-2005/73a942906f33e6c99e2c1e31b173437c_lab_report.pdf
+file_size: 115716
 file_type: application/pdf
 learning_resource_types:
 - Labs
