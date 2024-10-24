@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains solutions to assignment 4.
-file: /courses/2-016-hydrodynamics-13-012-fall-2005/d38f6e17da11ebf0cf1fe439ea471d9e_hw4_sol.pdf
+file: /ol-ocw-studio-app/courses/2-016-hydrodynamics-13-012-fall-2005/d38f6e17da11ebf0cf1fe439ea471d9e_hw4_sol.pdf
 file_size: 464317
 file_type: application/pdf
 learning_resource_types:
