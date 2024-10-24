@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains introduction to free surface impact, write up,
   introduction to added mass, and added mass experiment.
-file: /courses/2-016-hydrodynamics-13-012-fall-2005/6e586911b87035a5e7b9ebe0f5674c63_lab1.pdf
+file: /ol-ocw-studio-app/courses/2-016-hydrodynamics-13-012-fall-2005/6e586911b87035a5e7b9ebe0f5674c63_lab1.pdf
 file_size: 355643
 file_type: application/pdf
 learning_resource_types:

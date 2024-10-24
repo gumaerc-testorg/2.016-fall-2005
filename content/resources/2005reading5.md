@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains fluid forces on bodies, steady flow, and unsteady
   motion and added mass.,
-file: /courses/2-016-hydrodynamics-13-012-fall-2005/7b7f30b7b534f4613d671fd7eb1052cc_2005reading5.pdf
+file: /ol-ocw-studio-app/courses/2-016-hydrodynamics-13-012-fall-2005/7b7f30b7b534f4613d671fd7eb1052cc_2005reading5.pdf
 file_size: 120755
 file_type: application/pdf
 learning_resource_types:

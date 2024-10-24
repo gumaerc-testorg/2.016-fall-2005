@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains pdf and .m files.
-file: /courses/2-016-hydrodynamics-13-012-fall-2005/bafc7034b0f4fef83babee65b567444f_lab3.zip
+file: /ol-ocw-studio-app/courses/2-016-hydrodynamics-13-012-fall-2005/bafc7034b0f4fef83babee65b567444f_lab3.zip
 file_size: 2543573
 file_type: application/zip
 learning_resource_types:
