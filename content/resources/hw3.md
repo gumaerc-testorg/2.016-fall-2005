@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains 6 questions to test students understanding of
   course material.
-file: /courses/2-016-hydrodynamics-13-012-fall-2005/0a60fde1c91a7411e5e7fae8600bf182_hw3.pdf
+file: /ol-ocw-studio-app/courses/2-016-hydrodynamics-13-012-fall-2005/0a60fde1c91a7411e5e7fae8600bf182_hw3.pdf
 file_size: 328115
 file_type: application/pdf
 learning_resource_types:

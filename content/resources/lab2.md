@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains laboratory setup/procedures, and post-lab analysis.
-file: /courses/2-016-hydrodynamics-13-012-fall-2005/8855a20481c940658c8f6d2853c4d496_lab2.pdf
+file: /ol-ocw-studio-app/courses/2-016-hydrodynamics-13-012-fall-2005/8855a20481c940658c8f6d2853c4d496_lab2.pdf
 file_size: 185901
 file_type: application/pdf
 learning_resource_types:
