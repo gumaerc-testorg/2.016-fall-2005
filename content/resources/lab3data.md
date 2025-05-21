@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains ,asc files.
-file: /ol-ocw-studio-app/courses/2-016-hydrodynamics-13-012-fall-2005/ffb914b7a0e48e8b27a728406b8f4615_lab3data.zip
+file: /courses/2-016-hydrodynamics-13-012-fall-2005/ffb914b7a0e48e8b27a728406b8f4615_lab3data.zip
 file_size: 1986824
 file_type: application/zip
 learning_resource_types:
