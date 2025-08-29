@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains potential flow theory, laplace equation, and bernoulli
   equation.
-file: /courses/2-016-hydrodynamics-13-012-fall-2005/c472432debcf6ee250209b68cf18cc12_2005reading4.pdf
+file: /ol-ocw-studio-app/courses/2-016-hydrodynamics-13-012-fall-2005/c472432debcf6ee250209b68cf18cc12_2005reading4.pdf
 file_size: 233560
 file_type: application/pdf
 learning_resource_types:

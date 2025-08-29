@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains stream functions for planar flow and potential
   functions.
-file: /courses/2-016-hydrodynamics-13-012-fall-2005/20b3e1b7b85203a798bb3e995591a312_potential_flow.pdf
+file: /ol-ocw-studio-app/courses/2-016-hydrodynamics-13-012-fall-2005/20b3e1b7b85203a798bb3e995591a312_potential_flow.pdf
 file_size: 248449
 file_type: application/pdf
 learning_resource_types: []
