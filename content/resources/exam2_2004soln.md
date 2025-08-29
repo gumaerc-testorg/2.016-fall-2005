@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains solution for exam 2.
-file: /courses/2-016-hydrodynamics-13-012-fall-2005/d6c11229493ffd9dc69715746bbf351c_exam2_2004soln.pdf
+file: /ol-ocw-studio-app/courses/2-016-hydrodynamics-13-012-fall-2005/d6c11229493ffd9dc69715746bbf351c_exam2_2004soln.pdf
 file_size: 668492
 file_type: application/pdf
 learning_resource_types: []

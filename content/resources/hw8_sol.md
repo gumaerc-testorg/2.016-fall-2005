@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains solutions to assignment 8.
-file: /courses/2-016-hydrodynamics-13-012-fall-2005/be84e62c0a9aacf8fa8f5a131f2a7eee_hw8_sol.pdf
+file: /ol-ocw-studio-app/courses/2-016-hydrodynamics-13-012-fall-2005/be84e62c0a9aacf8fa8f5a131f2a7eee_hw8_sol.pdf
 file_size: 57638
 file_type: application/pdf
 learning_resource_types:
