@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource explains the topic added mass forces and moments.
-file: /courses/2-016-hydrodynamics-13-012-fall-2005/ecf4193b70475698fd44980e47cb2711_add_mass_force.pdf
+file: /ol-ocw-studio-app/courses/2-016-hydrodynamics-13-012-fall-2005/ecf4193b70475698fd44980e47cb2711_add_mass_force.pdf
 file_size: 61620
 file_type: application/pdf
 learning_resource_types: []

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains froude krylov excitation force, multi hulled vessel
   with additional pontoon, and the total wave potential.
-file: /courses/2-016-hydrodynamics-13-012-fall-2005/03bdb1d91476c5138f911309dd026e41_2005reading8.pdf
+file: /ol-ocw-studio-app/courses/2-016-hydrodynamics-13-012-fall-2005/03bdb1d91476c5138f911309dd026e41_2005reading8.pdf
 file_size: 195232
 file_type: application/pdf
 learning_resource_types:
